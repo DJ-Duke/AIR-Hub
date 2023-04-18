@@ -53,6 +53,18 @@ Use diffusion model to generate short videos.
 
 
 
+### AI Powerpoint Presentation Generation
+
+Link: [打工人利器！AI 生成 PPT，目前市场上最实用的PPT生成网站_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV14M4y1U7wU/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+It introduces a AI ppt generation webside: [Gamma](https://gamma.app/)
+
+Jingzhi tried to use it to generate a PPT about "AIGC to boost academic researches", and here's what he got: [AI Genereated PPT](https://gamma.app/docs/AIGC-for-Boosting-Academic-Researches-alvtmnp0ozxinlu)
+
+Seems it is right on the points and is beautiful, while the content are not very adequate.
+
+
+
 ## AIGC for Scientific Calculation
 
 ### ChatGPT + Mathematica Helps Scientific Calculation
@@ -76,4 +88,26 @@ The video contains a short talk, which involves the famous Dr. Wolfram that crea
 Link: [用AI来发现物理公式，是真的恐怖，算力不需要特别多，代码1.2k星标_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bo4y1W7Er/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
 
 #### Contents
+
+
+
+## Existing Integration of AIGC for Academic Research
+
+
+
+### chatgpt-academic v3.1 (THUglm+gpt3.5+gpt4)
+
+Vedio: [chatgpt-academic v3.1多模型统合测试（清华glm+gpt3.5+gpt4）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wT411p7yf/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+![image-20230419000418490](./Online_Video_Resources.assets/image-20230419000418490.png)
+
+It contains many impressive applications.
+
+To name a few that are of particular interest:
+
+- Ask multiple LLM and summary their results automatically.
+- Analyze a whole Python project.
+- Read Tex file of technical article and generate abstract.
+- Generate comments for function in a batch manner.
+- Summary word files in a batch manner.
 
