@@ -1,4 +1,4 @@
-# Online Video Resources
+# Online Resources
 
 
 
@@ -36,6 +36,72 @@ He announced the **NVIDIA AI FOUNDATIONS**, a cloud service for build, refine, a
 [Generative AI for Enterprise | NVIDIA](https://www.nvidia.com/en-sg/ai-data-science/generative-ai/)
 
 ![image-20230417214024293](./Online_Video_Resources.assets/image-20230417214024293.png)
+
+
+
+## AIGC for Finding Literature and Related Works
+
+### Consensus: Evidence-Based Answers, Faster
+
+[Consensus - Evidence-Based Answers, Faster](https://consensus.app/)
+
+Consensus is a search engine that uses AI to extract and distill findings directly from scientific research.
+
+#### Jingzhi's Trial:
+
+[What are the state-of-the-art methods to perform prediction tasks for irregularly sampled time series?](https://consensus.app/results/?q=What%20are%20the%20state-of-the-art%20methods%20to%20perform%20prediction%20tasks%20for%20irregularly%20sampled%20time%20series%3F&synthesize=on&year_min=2020)
+
+Jingzhi: Useable, but not very reliable. Many important works are missing. Could be used as the first-search for literature.
+
+### Elicit: The AI Research Assistant
+
+[Elicit: The AI Research Assistant](https://elicit.org/)
+
+Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers.
+
+#### Jingzhi's Trial:
+
+Qustion: What are the state-of-the-art methods to perform prediction tasks for irregularly sampled time series?
+
+Jingzhi: Compared to Consensus, it has an advanced Filter to select keywords and study types. The results it got are more comprehensive. More important and relevant works are provided. I'd say it is very helpful.
+
+## AIGC Helps Reading Literature
+
+### ChatDoc: Chat with documents, and get instant answers with cited sources
+
+
+
+### AIGC for Language Translation
+
+### A plugin for translating current website using OpenAI API
+
+%TODO [2023年4月20日 00:23:20, JHu]: Can be found in [有了这几个ai网站，让你论文写作效率直接起飞_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zv4y1H7yw/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+
+
+## AIGC for Academic Paper Writing
+
+
+
+### How to let ChatGPT help you write high-quality thesis
+
+[如何让ChatGPT帮你写出优质论文 提问技巧及注意事项_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MM4y1z7tN/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+This video tells you how to properly prompt GPT4 into help you write a thesis.
+
+Steps are:
+
+- First, let GPT4 choose a research subject, ask for 5 options
+  - Tell explicitly that you are in what major, want to select a subject for a thesis for what purpose (e.g. obtaining a Bachlor Degree)
+- Secondly, let GPT4 generates an abstract for a certain option that you selected.
+- Thirdly, let GPT4 constructs an outline
+  - You can also let GPT4 produce multiple outlines for you to select.
+- Finally, let GPT4 write content for each of the subsection in the outline. Ask one at a time.
+  - Should specify some constraints, e.g., the total number of words is 15,000, and let the GPT4 to generate contents with a length in a proper proportion. 
+- Notice that do not let GPT4 to provide any reference. Because GPT4 cannot access to references and  generally it will fake one. Instead, you can ask for NewBing to provide some reference based on the contents.
+- Another important notice is that you cannot directly use the creation of GPT4 to submit. It is only of reference value. If you would do so, there are always some AI plagiarism judgment tools to find out. Besides, GPT4 isn't always right. Youself has the full responsibility to check its production and make sure it is right.
+
+
 
 ## AIGC for Research Illustration
 
