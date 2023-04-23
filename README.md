@@ -10,6 +10,7 @@ Contributed by: Duke@NTU and Daoyou@Gatech
 
 - General Introduction to AIGC Technology
 - Insightful Talks from Renowned Scientists
+- Integrated Platform of AI for Research
 - Specific Techniques of AI for Research
     - AI Helps Reading Documents
     - AI Helps Translation and Polishing
