@@ -26,6 +26,8 @@ Young researchers who are still alive and crawling healthily and moderately in t
 
 ## Intuition of Starting Such a Repo
 
+Provide guide and tutorial on how to use AI to boost sciencetific research, focusing on wireless communication and photonics fields.
+
 Eliminating information gap.
 
 Provide subjective assessment on the various of AIGC for research.
