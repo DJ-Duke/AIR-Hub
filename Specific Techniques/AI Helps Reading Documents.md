@@ -4,11 +4,11 @@ Rating of the contents
 
 | Name    | Rating | Keywords               | Date       | Ref       |
 | ------- | ------ | ---------------------- | ---------- | --------- |
-| ChatDoc | 🌟🌟🌟    | Showing related parts; | 2023-03-28 | GI_HF_001 |
+| ChatDoc | 🌟🌟🌟    | Showing related parts; | 2023-03-28 | ST_RD_001 |
 |         |        |                        |            |           |
 |         |        |                        |            |           |
 
-## ChatDoc: Chat with documents, get answers with cited sources
+## `ST_RD_001` ChatDoc: Chat with documents, get answers with cited sources
 
 [ChatDOC - Chat with your documents](https://chatdoc.com/)
 
