@@ -69,7 +69,17 @@ Jingzhi: Compared to Consensus, it has an advanced Filter to select keywords and
 
 ### ChatDoc: Chat with documents, and get instant answers with cited sources
 
+[ChatDOC - Chat with your documents](https://chatdoc.com/)
 
+Duke's Trial:
+
+I let it reads "Contactless Seismocardiography via Deep Learning Radars" by Unsoo Ha et al.
+
+I asked "What '4D' indicates in '4D Cardiac Beamformer'?"
+
+![image-20230420160344834](./Online_Video_Resources.assets/image-20230420160344834.png)
+
+I'd reckon its feedback is not very satisfactory. One have to read the paper him/herself to get the hint of such a subtle concept.
 
 ### AIGC for Language Translation
 
