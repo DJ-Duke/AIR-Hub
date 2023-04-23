@@ -4,6 +4,8 @@
 
 ## OpenAI
 
+- TED--Greg Brockman--Official AutoGPT
+
 ## Standford
 
 ## NVIDIA
