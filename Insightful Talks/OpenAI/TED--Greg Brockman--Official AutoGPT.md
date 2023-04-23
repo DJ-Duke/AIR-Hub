@@ -12,8 +12,6 @@ Video: [Open AI 联合创始人 Greg Brockman 在 TED 大会现场演讲视频_�
 
 ## Notes of the Video
 
-
-
 ### Demonstration of GPT+Plugin
 
 > Today I want to show you the current state of (OpenAI GPT) technology and some of the underlying design principles we hold dear.
@@ -76,7 +74,7 @@ Simple Loss function will lead to unsatisfactory performance, it even will resul
 
 ![image-20230424000642371](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424000642371.png)
 
-*If you teach a kid to clean a floor and if all you check is the cleaness of the floor, this may happens.*
+*If you teach a kid to clean a floor and if all you check is the cleaness of the floor, this may happen.*
 
 AI itself can be used to produce those high quality feedbacks.
 
