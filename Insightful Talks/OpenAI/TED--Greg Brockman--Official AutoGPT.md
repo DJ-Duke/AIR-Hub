@@ -78,8 +78,24 @@ Simple Loss function will lead to unsatisfactory performance, it even will resul
 
 AI itself can be used to produce those high quality feedbacks.
 
-%TODO [2023年4月24日 00:11:07, JHu]: https://www.bilibili.com/video/BV1514y1f74G?t=513.1
+He introduce a `browsing` tool, which can be used to fact check the content that GPT provides. By this way, GPT can do supervised learning from the feedback.
+
+![image-20230424233401521](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424233401521.png)
+
+> Human uses this fact checking tool is doing it in order to produce data for another AI to become more useful to human. This could really be expected to be much more common in the future.
+
+By combing human management, oversight, and feedback, and the machine is operating in a way that's inspectable and trustworthy, he believes more trustworthy machines can be created, which leads to solution even to impossible problems.
 
 
+
+### The Strength of GPT to Handle Excel Files
+
+![image-20230424234102610](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424234102610.png)
+
+He presented a model named Code Interpreter. He directly upload a csv file containing all the AI papers in arXiv. The model automatically analyze it and provide insightful outcomes.
+
+![image-20230424234528482](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424234528482.png)
+
+GPT can take in super high level instruction, like "make some exploratory graphs", which has lots of possible intent behind it.
 
  
