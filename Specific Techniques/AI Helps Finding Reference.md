@@ -46,3 +46,15 @@ Jingzhi: Compared to Consensus, it has an advanced Filter to select keywords and
 
 
 
+## `ST_FR_003` New Bing
+
+#### Ask New Bing to find 3GPP standard and fetch a bibtex entry
+
+```text
+Please provide me the bibtex entry corresponding to the following 3GPP standard. I want it to follow IEEEtrans format.
+"3GPP TR 38.901 V16.1.0"
+```
+
+![image-20230425222512213](./AI Helps Finding Reference.assets/image-20230425222512213.png)
+
+Very helpful! Before, I always find it hard to serach for 3GPP standard. Now I have the url.
