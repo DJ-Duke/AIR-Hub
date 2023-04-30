@@ -60,3 +60,30 @@ Next, you will build a ChatBot using the LLM
 #### Important Notes
 
 <img src="./readme.assets/image-20230430090711801.png" alt="image-20230430090711801" style="zoom:50%;" />
+
+*Difference between Base LLM and Instruction Tuned LLM*
+
+This video uses OpenAI API in python with Jupyter Notebook, where the GPT-3.5-Turbo is employed. But you can use the same principles in chatting with ChatGPT or GPT4 in the OpenAI website.
+
+Two principles for writing prompt:
+
+- **Write clear and specific instruction**
+  -  Clear prompt is not a short prompt. Usually a longer prompt contains more context for the model to learn and will lead to better outcomes.
+  - Tactic 1: Use delimiters to let the model know where you want it to concentrate
+  - Tactic 2: Ask for structured output
+    - `Provde them in JSON format with the following keys: book_id, title, author, genre.`
+  - Tactic 3: Ask the model to check whether conditions are satisfied
+    - <img src="./readme.assets/image-20230430092501359.png" alt="image-20230430092501359" style="zoom:50%;" />
+  - Tactic 4: Few shot prompting--Give successful examples of completing tasks. Then ask model to perform the task
+    - <img src="./readme.assets/image-20230430093311646.png" alt="image-20230430093311646" style="zoom:50%;" />
+    - I'd say quite amazing that the model does learn!
+
+- **Give the model time to think**
+  - Tactic: Specify the steps to complete a task
+    - `Perform the following actions for the texts within delimiters """. 1 -- xxx. 2 -- xxx`
+    - <img src="./readme.assets/image-20230430093855285.png" alt="image-20230430093855285" style="zoom:50%;" />
+
+[Work from here](https://www.bilibili.com/video/BV1Bo4y1L7kD?t=728.0&p=2)
+
+
+
