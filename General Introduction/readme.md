@@ -42,3 +42,21 @@ He announced the **NVIDIA AI FOUNDATIONS**, a cloud service for build, refine, a
 [Generative AI for Enterprise | NVIDIA](https://www.nvidia.com/en-sg/ai-data-science/generative-ai/)
 
 ![image-20230423123143822](./readme.assets/image-20230423123143822.png)
+
+## How to prompt GPT
+
+### GI_HF_002: ChatGPT Prompt Engineering by Andrew Ng
+
+[01.课程简介_ChatGPT提示工程_吴恩达 & OpenAI_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fk4y1J7Af/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+In this video, Ng focuses on teaching you to use GPT to boost application development.
+
+First, you will learn some best prompting practices.
+
+Then, you will learn some use cases, like summarizing, inferring, transforming, expanding.
+
+Next, you will build a ChatBot using the LLM
+
+#### Important Notes
+
+<img src="./readme.assets/image-20230430090711801.png" alt="image-20230430090711801" style="zoom:50%;" />
