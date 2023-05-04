@@ -28,7 +28,7 @@ Consensus is a search engine that uses AI to extract and distill findings direct
 
 [What are the state-of-the-art methods to perform prediction tasks for irregularly sampled time series?](https://consensus.app/results/?q=What%20are%20the%20state-of-the-art%20methods%20to%20perform%20prediction%20tasks%20for%20irregularly%20sampled%20time%20series%3F&synthesize=on&year_min=2020)
 
-Jingzhi: Useable, but not very reliable. Many important works are missing. Could be used as the first-search for literature.
+Duke: Useable, but not very reliable. Many important works are missing. Could be used as the first-search for literature.
 
 Another very useful thing is that it can give you reference-supported answer for yes-or-no questions.
 
@@ -54,9 +54,9 @@ Elicit can find relevant papers without perfect keyword match, summarize takeawa
 
 Qustion: What are the state-of-the-art methods to perform prediction tasks for irregularly sampled time series?
 
-Jingzhi: Compared to Consensus, it has an advanced Filter to select keywords and study types. The results it got are more comprehensive. More important and relevant works are provided. I'd say it is very helpful.
+Duke: Compared to Consensus, it has an advanced Filter to select keywords and study types. The results it got are more comprehensive. More important and relevant works are provided. I'd say it is very helpful.
 
-%TODO [2023年4月23日 14:45:12, JHu]: 展示一张界面图片
+%TODO [2023年4月23日 14:45:12, Duke]: 展示一张界面图片
 
 
 
