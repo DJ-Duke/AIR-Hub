@@ -52,7 +52,6 @@ Self-learning.
 
 Practice writing English freely.
 
-~~Rule the world~~
 
  
 
