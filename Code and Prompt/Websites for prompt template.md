@@ -5,7 +5,7 @@
 Abundant templates to prompt GPT to write book, to code, to write prompt for other AI like midjourney. 
 An interesting and insightful one is as follows, which make the GPT to be a almighty coder:
 
-![image-20230506170840608](../Websites for prompt template.assets/image-20230506170840608.png)
+![image-20230506170840608](/Code and Prompt/Websites for prompt template.assets/image-20230506170840608.png)
 
 Besides, it supports certain level of customization by meta information:
 
