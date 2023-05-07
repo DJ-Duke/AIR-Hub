@@ -46,3 +46,4 @@ It can generate structed content from a PDF file and supporting Q&A to get accur
 
 Also multiple functions are supported, so it is also an AI platform for academic research.
 
+

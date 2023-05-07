@@ -82,8 +82,13 @@ Two principles for writing prompt:
   - Tactic: Specify the steps to complete a task
     - `Perform the following actions for the texts within delimiters """. 1 -- xxx. 2 -- xxx`
     - <img src="./readme.assets/image-20230430093855285.png" alt="image-20230430093855285" style="zoom:50%;" />
+  - Tactic: Instruct the model to work out its own solution before rushing to a conclusion
+    - For example, if you let the model to check if a solution is correct for the question, then rather than let the model to give the answer directly, you can ask the model to get a solution itself, and check if it is consistent with the student's answer.
+    - ![image-20230506205152142](./readme.assets/image-20230506205152142.png)
+    - This prompt is just wrote really clear.
+  - Tactic: reduce hallucination
+    - First, let the model find relevant information.
+    - Then, let the model answer the question based on the relevant information.
 
-[Work from here](https://www.bilibili.com/video/BV1Bo4y1L7kD?t=728.0&p=2)
-
-
+[Work from here](https://www.bilibili.com/video/BV1no4y1w7dk/?spm_id_from=333.788&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
 
