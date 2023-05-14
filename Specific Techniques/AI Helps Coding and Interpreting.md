@@ -22,3 +22,13 @@ The author also explains his view of the difference between the previous version
 
 
 
+## `ST_CI_002` Code Interpreter by Open AI
+[OpenAI发布的新插件 Code Interpreter_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ZL41187BQ/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+To be honest, Duke has not got access to the plugin of GPT4 yet.
+But he thinks it will be very useful for data visualization.
+
+But based on this [How do I access plugins? | OpenAI Help Center](https://help.openai.com/en/articles/7183286-how-do-i-access-plugins)
+> How can I get access to plugins?
+> If you are a ChatGPT Plus user, you should be able to use plugins. We started granting access on May 12th, 2023 and we plan to gradually roll it out to 100% of Plus users within a week (thanks for your patience!).
+Duke thinks he will soon able to try it out!

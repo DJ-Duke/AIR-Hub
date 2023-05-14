@@ -42,5 +42,22 @@ Yes I know it is not technically AI-based, but it is kind of useful when you don
 
 
 
-<img src="./AI Helps Perform Presentations.assets/image-20230430085051991.png" alt="image-20230430085051991" style="zoom:50%;" />
+<img src="./AI Helps Perform Presentations.assets/image-20230430085051991.png" alt="image-20230430085051991" style="zoom: 33%;" />
+
+# `ST_PP_004` GPT+Midjourney: How to teach GPT4 to write promots for Midjourney V5
+
+[MidJourney V5 + GPT 4 王炸组合，让摄影师无路可逃_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cb411Z7HA/?spm_id_from=autoNext&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+Above is an impressive tutorial!
+
+Should learn it through!
+
+The streamer copy the technical explanation of Midjourney and ask GPT4 to learn it before letting the GPT4 to create any prompt. 
+
+Duke thinks this step is insightful.
+
+Besides, the streamer also use example to teach the GPT4 into writting proper prompt.
+
+This follows the principle of prompt writing advocated by Andrew Ng
+[Link](../General%20Introduction/README.md#important-notes)
 

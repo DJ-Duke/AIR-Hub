@@ -18,7 +18,7 @@ I let it reads "Contactless Seismocardiography via Deep Learning Radars" by Unso
 
 I asked "What '4D' indicates in '4D Cardiac Beamformer'?"
 
-![image-20230423143543312](./AI Helps Reading Documents.assets/image-20230423143543312.png)
+<img src="./AI Helps Reading Documents.assets/image-20230423143543312.png" alt="image-20230423143543312" style="zoom:50%;" />
 
 I'd reckon its feedback is not very satisfactory. One have to read the paper him/herself to get the hint of such a subtle concept.
 
@@ -28,7 +28,7 @@ But it will show you which part of the paper its answers are derived from, this 
 
 [学术chatgpt一键聚合文献+写RelatedWorks【chatgpt-academic】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1GP411U7Az/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
 
-![image-20230425000442582](./AI Helps Reading Documents.assets/image-20230425000442582.png)
+<img src="./AI Helps Reading Documents.assets/image-20230425000442582.png" alt="image-20230425000442582" style="zoom:67%;" />
 
 Using this platform, you can provide a link to a Google Scholar search result page, and let AI read all the paper for you.
 
@@ -42,8 +42,37 @@ You can then ask the AI to create a report, and ask the AI to write it in latex 
 
 It can generate structed content from a PDF file and supporting Q&A to get accurate answers from a paper to the question you want to know.
 
-![image-20230425001306037](./AI Helps Reading Documents.assets/image-20230425001306037.png)
+<img src="./AI Helps Reading Documents.assets/image-20230425001306037.png" alt="image-20230425001306037" style="zoom:67%;" />
 
 Also multiple functions are supported, so it is also an AI platform for academic research.
+
+
+
+`ST_RD_004` Claude: AI assistant for super-large scale task
+
+[Claude卷对了方向，支持10万Token文本，碾压GPT4的3万Token_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ja4y137uQ/?spm_id_from=autoNext&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+[Product | Anthropic](https://www.anthropic.com/product)
+
+
+
+Compared to GPT4, Claude can be more customizable, e.g., the answering tone and behavior.
+
+Besides, it can read documents with much much larger length, which is approximatly 75,000 words.
+
+It can read text in the formats such as `txt` and `pdf`.
+
+Duke's trying to use it, has applied for it. But have not got invitation.
+
+
+
+Here's a detailed introduction to the long-text reading capability of Claude.
+
+[Anthropic | Introducing 100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
+
+Duke says it really great that human has finally developed the technology to read their lengthy documents, regulations, laws, and reports.
+
+In the introduciton, it can learn directly from an API introduction of Langchain in the format of PDF (which contains 240 pages) and create a demo instantly.
+
 
 

@@ -72,3 +72,14 @@ Please provide me the bibtex entry corresponding to the following 3GPP standard.
 ![image-20230425222512213](./AI Helps Finding Reference.assets/image-20230425222512213.png)
 
 Very helpful! Before, I always find it hard to serach for 3GPP standard. Now I have the url.
+
+## `ST_FR_004` Inciteful: 
+[科研辅助AI软件——inciteful_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UM4y1b7w8/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+[Using Citations to Explore Academic Literature | Inciteful.xyz](https://inciteful.xyz/)
+
+<img src="./AI Helps Finding Reference.assets/image-20230514093441432.png" alt="image-20230514093441432" />
+
+Inciteful is a tool that can help you find new research articles based on one research article. 
+You can use Inciteful to understand your field and create network analysis graphs similar to Research Rabbit and Connected Papers. 
+However, it can provide more information about the paper and other information about your research field! 
+Check out this free research tool now!

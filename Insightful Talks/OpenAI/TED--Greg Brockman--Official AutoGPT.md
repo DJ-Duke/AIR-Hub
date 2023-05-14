@@ -20,17 +20,17 @@ Video: [Open AI 联合创始人 Greg Brockman 在 TED 大会现场演讲视频_�
 
 In first example, he showed how to use a DALL-E2 plugin to let GPT to create a suggestion for a meal and then draw a picture according to the suggestion.
 
-![image-20230423225818829](./TED--Greg Brockman--Official AutoGPT.assets/image-20230423225818829.png)*The generated image*
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230423225818829.png" alt="image-20230423225818829" />*The generated image*
 
 
 
 Then, he asked the GPT to make a shopping list for the food inside the above picture and tweet it out for the TED viewers.
 
-![image-20230423230608499](./TED--Greg Brockman--Official AutoGPT.assets/image-20230423230608499.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230423230608499.png" alt="image-20230423230608499" />
 
 *AI using plugin*
 
-![image-20230423230747921](./TED--Greg Brockman--Official AutoGPT.assets/image-20230423230747921.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230423230747921.png" alt="image-20230423230747921" />
 
 *Results of the shopping listed created by GPT*
 
@@ -38,11 +38,11 @@ Then, he asked the GPT to make a shopping list for the food inside the above pic
 
 > Traditional UI will not go away. It's just we have a new augmented way to build them.
 
-![image-20230423235142639](./TED--Greg Brockman--Official AutoGPT.assets/image-20230423235142639.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230423235142639.png" alt="image-20230423235142639" />
 
 *GPT uses Zapler Plugin to tweet*
 
-![image-20230423235229212](./TED--Greg Brockman--Official AutoGPT.assets/image-20230423235229212.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230423235229212.png" alt="image-20230423235229212" />
 
 *The tweet generated*
 
@@ -54,7 +54,7 @@ Then, he asked the GPT to make a shopping list for the food inside the above pic
 >
 > 2nd step, teach the AI what to do with the skills (that it have learned through unsupervised learning), and for this we provide feedback. We have the AI try out multiple things, give us multiple suggestions and then human rates them says this one's better than that one.
 
-![image-20230423235858861](./TED--Greg Brockman--Official AutoGPT.assets/image-20230423235858861.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230423235858861.png" alt="image-20230423235858861" style="zoom:50%;" />
 
 *Human feedbacks which option is better*
 
@@ -62,7 +62,7 @@ Then, he asked the GPT to make a shopping list for the food inside the above pic
 
 Some times, things we do not generally expect to teach the AI are important, for example, simple math.
 
-![image-20230424000337016](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424000337016.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230424000337016.png" alt="image-20230424000337016" />
 
 *Teach AI to say when human is wrong*
 
@@ -72,7 +72,7 @@ It is then very important to obtain **high quality feedback**.
 
 Simple Loss function will lead to unsatisfactory performance, it even will result the AI to cheat.
 
-![image-20230424000642371](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424000642371.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230424000642371.png" alt="image-20230424000642371" />
 
 *If you teach a kid to clean a floor and if all you check is the cleaness of the floor, this may happen.*
 
@@ -80,7 +80,7 @@ AI itself can be used to produce those high quality feedbacks.
 
 He introduce a `browsing` tool, which can be used to fact check the content that GPT provides. By this way, GPT can do supervised learning from the feedback.
 
-![image-20230424233401521](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424233401521.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230424233401521.png" alt="image-20230424233401521" style="zoom:50%;" />
 
 > Human uses this fact checking tool is doing it in order to produce data for another AI to become more useful to human. This could really be expected to be much more common in the future.
 
@@ -90,11 +90,11 @@ By combing human management, oversight, and feedback, and the machine is operati
 
 ### The Strength of GPT to Handle Excel Files
 
-![image-20230424234102610](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424234102610.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230424234102610.png" alt="image-20230424234102610" style="zoom:50%;" />
 
 He presented a model named Code Interpreter. He directly upload a csv file containing all the AI papers in arXiv. The model automatically analyze it and provide insightful outcomes.
 
-![image-20230424234528482](./TED--Greg Brockman--Official AutoGPT.assets/image-20230424234528482.png)
+<img src="./TED--Greg Brockman--Official AutoGPT.assets/image-20230424234528482.png" alt="image-20230424234528482" style="zoom:50%;" />
 
 GPT can take in super high level instruction, like "make some exploratory graphs", which has lots of possible intent behind it.
 

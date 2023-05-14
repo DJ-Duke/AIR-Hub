@@ -9,27 +9,27 @@ An interesting and insightful one is as follows, which make the GPT to be a almi
 
 Besides, it supports certain level of customization by meta information:
 
-![image-20230506171035336](./Websites for prompt template.assets/image-20230506171035336.png)
+<img src="./Websites for prompt template.assets/image-20230506171035336.png" alt="image-20230506171035336" />
 
 # `CP_Tmpl_002` PromptHero: Prompt generator for Stable diffusion, Midjourney, DALL-E...
 
  [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://www.prompthero.com/)
 
-![image-20230506171931637](./Websites for prompt template.assets/image-20230506171931637.png)
+<img src="./Websites for prompt template.assets/image-20230506171931637.png" alt="image-20230506171931637" />
 
 You can browse the images that you want a similar one and know their detailed prompt.
 
-![image-20230506172101089](./Websites for prompt template.assets/image-20230506172101089.png)
+<img src="./Websites for prompt template.assets/image-20230506172101089.png" alt="image-20230506172101089" />
 
 It also provides you with the random seed for that exact figure!
 
-![image-20230506172219191](./Websites for prompt template.assets/image-20230506172219191.png)
+<img src="./Websites for prompt template.assets/image-20230506172219191.png" alt="image-20230506172219191" />
 
 It has a lot of prompts for all kinds of AI image generation models!
 
 # `CP_Tmpl_003` publicprompts.art: high quality prompts for stable diffusion
 
-![image-20230506192359997](./Websites for prompt template.assets/image-20230506192359997.png)
+<img src="./Websites for prompt template.assets/image-20230506192359997.png" alt="image-20230506192359997" />
 
 https://publicprompts.art/
 

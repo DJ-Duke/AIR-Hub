@@ -4,7 +4,7 @@
 
 Vedio: [chatgpt-academic v3.1多模型统合测试（清华glm+gpt3.5+gpt4）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wT411p7yf/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
 
-![image-20230423201319215](./Tsinghua ChatGPT-Academic.assets/image-20230423201319215.png)
+<img src="./Tsinghua ChatGPT-Academic.assets/image-20230423201319215.png" alt="image-20230423201319215" />
 
 It contains many impressive applications.
 

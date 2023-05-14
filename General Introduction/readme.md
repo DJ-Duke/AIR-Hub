@@ -41,7 +41,7 @@ He announced the **NVIDIA AI FOUNDATIONS**, a cloud service for build, refine, a
 
 [Generative AI for Enterprise | NVIDIA](https://www.nvidia.com/en-sg/ai-data-science/generative-ai/)
 
-![image-20230423123143822](./readme.assets/image-20230423123143822.png)
+<img src="./readme.assets/image-20230423123143822.png" alt="image-20230423123143822" />
 
 ## How to prompt GPT
 
@@ -84,7 +84,7 @@ Two principles for writing prompt:
     - <img src="./readme.assets/image-20230430093855285.png" alt="image-20230430093855285" style="zoom:50%;" />
   - Tactic: Instruct the model to work out its own solution before rushing to a conclusion
     - For example, if you let the model to check if a solution is correct for the question, then rather than let the model to give the answer directly, you can ask the model to get a solution itself, and check if it is consistent with the student's answer.
-    - ![image-20230506205152142](./readme.assets/image-20230506205152142.png)
+    - <img src="./readme.assets/image-20230506205152142.png" alt="image-20230506205152142" />
     - This prompt is just wrote really clear.
   - Tactic: reduce hallucination
     - First, let the model find relevant information.
