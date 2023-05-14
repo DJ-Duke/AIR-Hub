@@ -20,9 +20,14 @@ Moreover, it also works as an agent for VS Code, you can ask question like "how 
 
 The author also explains his view of the difference between the previous version of the Copliot in the current version. [See Link](https://www.bilibili.com/video/BV1UV4y1S7Gi?t=336.1)
 
+Duke has recently gained access to Copilot X and finds it very convenient! He no longer needs to copy and paste everything he wants to look up to GPT4. Instead, he can simply use `cmd+I` to call the inline AI helper, which can modify the content as he requests right on the spot!
+Even with tracable modification details shown via Git.
+Just wonderful!
 
+<img src="./AI Helps Coding and Interpreting.assets/image-20230514095429364.png" alt="image-20230514095429364" style="zoom:67%;" />
 
 ## `ST_CI_002` Code Interpreter by Open AI
+
 [OpenAI发布的新插件 Code Interpreter_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ZL41187BQ/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
 
 To be honest, Duke has not got access to the plugin of GPT4 yet.
@@ -32,3 +37,8 @@ But based on this [How do I access plugins? | OpenAI Help Center](https://help.o
 > How can I get access to plugins?
 > If you are a ChatGPT Plus user, you should be able to use plugins. We started granting access on May 12th, 2023 and we plan to gradually roll it out to 100% of Plus users within a week (thanks for your patience!).
 Duke thinks he will soon able to try it out!
+
+Here is a detailed user guide in vedio: [How to Access and Use ChatGPT Plugins - HUGE Ai UPDATE - YouTube](https://www.youtube.com/watch?v=mDRrhlB19XU)
+
+Here is an official introduction to all kinds of Plugins for ChatGPT [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
+
