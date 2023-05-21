@@ -89,7 +89,7 @@ It can even generate style-consistent 3D-style picture given a comic style pictu
 
 *generated figure*
 
-![image-20230521084814714](./AI Helps Perform Presentations.assets/image-20230521084814714.png)
+<img src="./AI Helps Perform Presentations.assets/image-20230521084814714.png" alt="image-20230521084814714" style="zoom:67%;" />
 
 *reference and generated figure*
 
