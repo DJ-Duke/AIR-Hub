@@ -90,5 +90,30 @@ Two principles for writing prompt:
     - First, let the model find relevant information.
     - Then, let the model answer the question based on the relevant information.
 
-[Work from here](https://www.bilibili.com/video/BV1no4y1w7dk/?spm_id_from=333.788&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+### Iterative Prompt Development
 
+The basic idea is to keep modifying the prompt until the LLM provides the result you want.
+
+<img src="./readme.assets/image-20230521095918213.png" alt="image-20230521095918213" style="zoom:67%;" /> 
+
+Duke thinks the prompt engineering with LLM is just like being a good Boss. You either know want you want very specifically or try to gradually find it out with your team. Otherwise, you wont get a good job done.
+
+## Ranking of LMM Models by LMSYS ORG
+
+[LMSYS公布LLM性能排名持续更新 GPT-4排名第一，Palm2还未测_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Pm4y187ji/?spm_id_from=333.999.0.0&vd_source=57ac3ae5415445af2ffe1e61e1722d73)
+
+Official website: [LMSYS Org](https://lmsys.org/)
+
+This is a website project held by UC Berkeley. It contains some small scale LM including the 3B FastChat-T5 model and the 7B and 13B Vicuna model.
+
+It also contains a evaluation arena for the LLMs and a open and scalable platform for training, finetuning, serving, and evaluating LLM-based chatbots.
+
+<img src="./readme.assets/image-20230521083533171.png" alt="image-20230521083533171" style="zoom:80%;" />
+
+The ranking it provides by using the Chatbot Arena can be found here: [Chatbot Arena Leaderboard Updates (Week 2) | LMSYS Org](https://lmsys.org/blog/2023-05-10-leaderboard/)
+
+<img src="./readme.assets/image-20230521083647494.png" alt="image-20230521083647494" style="zoom:80%;" />
+
+The method to evaluate the models is by pair-wise matching, which results in a Win Fraction Matrix.
+
+<img src="./readme.assets/image-20230521083900813.png" alt="image-20230521083900813" style="zoom:80%;" />

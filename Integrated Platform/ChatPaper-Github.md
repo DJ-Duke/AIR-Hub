@@ -20,3 +20,5 @@ Duke considers some of its functions and applications are highly necessary and c
 
 It would be more useful if one day it can rely on GPT4.
 
+[ChatReviewer - a Hugging Face Space by liuge2811](https://huggingface.co/spaces/liuge2811/ChatReviewer)
+
