@@ -147,7 +147,7 @@ It can also be used to generate real scenes to test auto vehicles.
 
 **Lambda** provides best prices for cloud GPUs.
 
-![image-20230521093318525](./AI Helps Perform Presentations.assets/image-20230521093318525.png)
+<img src="./AI Helps Perform Presentations.assets/image-20230521093318525.png" alt="image-20230521093318525" style="zoom:67%;" />
 
 *but from when MIT became a Fortune 500 company*?
 
